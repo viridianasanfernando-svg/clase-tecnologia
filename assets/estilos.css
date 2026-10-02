@@ -105,3 +105,4 @@ details p { color: var(--suave); margin: 0; }
   body { font-size: 16px; }
   section.bloque { padding: 36px 0; }
 }
+.rejilla + .tabla-scroll, .fechas + .tabla-scroll, .tabla-scroll + p, .rejilla + p, .rejilla + .rejilla { margin-top: 20px; }
