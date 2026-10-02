@@ -1,4 +1,4 @@
-# Sitio de la clase · Computación
+# Sitio de la clase · Tecnología
 
 Sitio estático (HTML y CSS, sin instalar nada). Estructura:
 
